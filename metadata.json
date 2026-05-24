@@ -1,0 +1,8 @@
+{
+  "name": "Enterprise Innovation Simulator",
+  "description": "An interactive digital sandbox that evaluates plain-text corporate innovation ideas against regulatory, technical, and operational constraints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
